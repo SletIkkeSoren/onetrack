@@ -1,0 +1,13 @@
+.mandatory-form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    .title {
+        margin: 10px 0;
+    }
+    .buttons {
+        display: block;
+        justify-content: space-between;
+        margin-block-end: 10px;
+    }
+}
