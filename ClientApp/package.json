@@ -15,7 +15,7 @@
     "immutable": "^4.0.0-rc.12",
     "jquery": "^3.4.1",
     "material-ui": "^0.20.2",
-    "merge": "^1.2.1",
+    "merge": "^2.1.1",
     "moment": "^2.24.0",
     "node-sass": "^4.13.0",
     "oidc-client": "^1.9.0",
